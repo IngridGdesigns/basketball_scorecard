@@ -37,9 +37,10 @@ function increment3(team) {
     }
 }
 
-let reset = document.getElementById("new");
+let reset = document.getElementById("resetGame");
 
 function newGame() {
+
     homeEl.textContent = 0;
     guestEl.textContent = 0;
 

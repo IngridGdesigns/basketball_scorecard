@@ -64,7 +64,7 @@ h1 {
     background-color: lightseagreen;
 }
 
-#new {
+#resetGame {
     color: white;
     background-color: lightsalmon;
     padding: 5px 8px;
@@ -73,6 +73,6 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
-#new:hover {
+#resetGame:hover {
     background-color: lightseagreen;
 }
