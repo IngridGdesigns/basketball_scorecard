@@ -8,8 +8,6 @@ body {
     background-image: url("warriors.jpeg");
     background-size: auto;
     display: flex;
-
-
 }
 
 .container {
@@ -29,9 +27,7 @@ body {
     color: yellow;
 }
 
-h1,
-h3,
-button {
+h1, h3, button {
     font-family: CursedTimer;
 }
 
