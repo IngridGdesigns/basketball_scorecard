@@ -40,32 +40,3 @@ function newGame() {
     home.textContent = 0;
     guest.textContent = 0;
 }
-
-
-// function start() {
-//     home.textContent = 0;
-//     guest.textContent = 0;
-// }
-
-// let isLeading = document.getElementById("leader");
-
-// function l() {
-//     console.log("working");
-// }
-
-// isLeading.innerHTML
-// // function isleading () {
-// //     if(homeScore > guestScore){
-// //         console.log("highlight leader");
-// //     } else if(guestScore > homeScore){
-// //         console.log("highlight guest");
-// //     }
-// // }
-
-// Stopwatch https://javacodepoint.com/how-to-create-a-stopwatch-in-javascript/
-// let stopwatch = document.getElementById("stopwatch");
-// let startBtn = document.getElementById("start-btn");
-// let timeoutId = null;
-// let ms = 0;
-// let sec = 0;
-// let min = 0;
