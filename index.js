@@ -34,7 +34,7 @@ function increment3(team) {
     }
 }
 
-let reset = document.getElementById("newGame");
+let reset = document.getElementById("new");
 
 function newGame() {
     home.textContent = 0;
