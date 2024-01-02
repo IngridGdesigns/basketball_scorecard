@@ -6,7 +6,10 @@
 body {
     margin: auto;
     background-image: url("warriors.jpeg");
-    background-size: cover;
+    background-size: auto;
+    display: flex;
+
+
 }
 
 .container {
@@ -19,15 +22,17 @@ body {
     background: #1B244A;
     margin: 20px auto;
     padding-bottom: 30px;
-    
+
 }
 
 .leader {
     color: yellow;
 }
 
-h1, h3, button {
-     font-family: CursedTimer;
+h1,
+h3,
+button {
+    font-family: CursedTimer;
 }
 
 h3 {
@@ -42,20 +47,20 @@ h1 {
     text-align: center;
     font-size: 90px;
     font-style: normal;
-    font-weight: 400;    
+    font-weight: 400;
 }
 
 .increment {
     background-color: #1B244A;
     border-radius: 5px;
     border: 2px solid #9AABD8;
-    color: #fff;;
+    color: #fff;
     width: 45px;
     height: 45px;
     margin-left: 5px
 }
 
-.increment:hover{
+.increment:hover {
     background-color: lightseagreen;
 }
 
